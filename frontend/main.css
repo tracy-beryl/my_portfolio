@@ -1,0 +1,13 @@
+*{
+    background-color: black;
+    color: white;
+}
+
+.ul-nav{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+li{
+    text-decoration: none;
+}
